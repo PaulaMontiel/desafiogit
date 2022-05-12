@@ -1,11 +1,12 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: #021d32;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -35,5 +36,34 @@ body {
   .navbar-brand{
     width: 100px;
   }
-
 }
+.bg-cal{
+  background-image: url("../img/azul-gold.jpeg");
+  background-color: #012e46;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.btn{
+  background-color: #012e46;
+  border-color: #021d32;
+  color: aliceblue;
+}
+.bg-turq{
+  background-image: url("../img/brillo.png");
+  background-color: #012e46;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.nav-link{
+  color: aliceblue !important;
+}
+.fa{
+  color: #012e46;
+}
+.titulo{
+  font-family: 'Ubuntu', sans-serif;
+  -webkit-text-stroke:#012e46 ;
+}
+
